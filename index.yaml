@@ -1,0 +1,43 @@
+apiVersion: v1
+entries:
+  cubrid-operator:
+  - apiVersion: v2
+    appVersion: 11.4.0
+    created: "2025-01-20T15:47:20.755825758+09:00"
+    description: A Helm chart for Cubrid Operator
+    digest: fe0f6eabe71ab59fda7fa25129a2045d8b5a2661d089ab66833d2ef2db22de5c
+    home: https://github.com/CUBRID/cubrid-operator
+    keywords:
+    - cubrid
+    - cubrid HA
+    - cubrid-operator
+    kubeVersion: '>=1.30.0-0'
+    maintainers:
+    - email: airnet@cubrid.com
+      name: Dooho Kang
+    name: cubrid-operator
+    type: application
+    urls:
+    - https://airnet73.github.io/helm-charts/cubrid-operator-0.0.1.tgz
+    version: 0.0.1
+  cubrid-operator-crds:
+  - apiVersion: v2
+    appVersion: 11.4.0
+    created: "2025-01-20T15:47:20.756475341+09:00"
+    description: cubrid-operator CRDs
+    digest: 7a308c498ddee807f6b8d20c311ca6fe770184b2d644e87b0f69cf965668d831
+    home: https://github.com/CUBRID/cubrid-operator
+    keywords:
+    - cubrid
+    - cubrid HA
+    - cubrid-operator
+    kubeVersion: '>=1.30.0-0'
+    maintainers:
+    - email: airnet@cubrid.com
+      name: Dooho Kang
+    name: cubrid-operator-crds
+    type: application
+    urls:
+    - https://airnet73.github.io/helm-charts/cubrid-operator-crds-0.0.1.tgz
+    version: 0.0.1
+generated: "2025-01-20T15:47:20.753770757+09:00"
