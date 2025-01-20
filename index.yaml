@@ -3,9 +3,9 @@ entries:
   cubrid-operator:
   - apiVersion: v2
     appVersion: 11.4.0
-    created: "2025-01-20T15:47:20.755825758+09:00"
+    created: "2025-01-20T16:56:21.624581714+09:00"
     description: A Helm chart for Cubrid Operator
-    digest: fe0f6eabe71ab59fda7fa25129a2045d8b5a2661d089ab66833d2ef2db22de5c
+    digest: dac8c5e50fef6d61a34b21fb87df4776fda8a997675e7e70a951249b3f65c7bc
     home: https://github.com/CUBRID/cubrid-operator
     keywords:
     - cubrid
@@ -18,14 +18,14 @@ entries:
     name: cubrid-operator
     type: application
     urls:
-    - https://airnet73.github.io/helm-charts/cubrid-operator-0.0.1.tgz
+    - https://airnet73.github.io/test-operator/cubrid-operator-0.0.1.tgz
     version: 0.0.1
   cubrid-operator-crds:
   - apiVersion: v2
     appVersion: 11.4.0
-    created: "2025-01-20T15:47:20.756475341+09:00"
+    created: "2025-01-20T16:56:21.625681803+09:00"
     description: cubrid-operator CRDs
-    digest: 7a308c498ddee807f6b8d20c311ca6fe770184b2d644e87b0f69cf965668d831
+    digest: 913d75439de618ba1f9c50db16db9d5acbea3894cc2f4dc04aac3803a0c3e84c
     home: https://github.com/CUBRID/cubrid-operator
     keywords:
     - cubrid
@@ -38,6 +38,6 @@ entries:
     name: cubrid-operator-crds
     type: application
     urls:
-    - https://airnet73.github.io/helm-charts/cubrid-operator-crds-0.0.1.tgz
+    - https://airnet73.github.io/test-operator/cubrid-operator-crds-0.0.1.tgz
     version: 0.0.1
-generated: "2025-01-20T15:47:20.753770757+09:00"
+generated: "2025-01-20T16:56:21.620809001+09:00"
