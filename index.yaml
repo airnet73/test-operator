@@ -2,16 +2,16 @@ apiVersion: v1
 entries:
   cubrid-operator:
   - apiVersion: v2
-    appVersion: 11.4.0
-    created: "2025-03-09T22:23:55.939208193+09:00"
+    appVersion: 0.0.1
+    created: "2025-03-12T21:09:34.115680478+09:00"
     description: A Helm chart for Cubrid Operator
-    digest: 665ccdea4ec71ce3f37a782b6fa5fa86ba6b29d521bb291bbe622bb13796b592
+    digest: 9b57ab64f828bac5e3d7bfa5be07fb43c47ad70bd9df31d025d012e1ffd2956a
     home: https://github.com/CUBRID/cubrid-operator
     keywords:
     - cubrid
     - cubrid HA
     - cubrid-operator
-    kubeVersion: '>=1.30.0-0'
+    kubeVersion: '>=1.29.0-0'
     maintainers:
     - email: airnet@cubrid.com
       name: Dooho Kang
@@ -22,16 +22,16 @@ entries:
     version: 0.0.1
   cubrid-operator-crds:
   - apiVersion: v2
-    appVersion: 11.4.0
-    created: "2025-03-09T22:23:55.939693914+09:00"
+    appVersion: 0.0.1
+    created: "2025-03-12T21:09:34.116453902+09:00"
     description: cubrid-operator CRDs
-    digest: 9a43c00bf90792ca5e0c57a753d4809354c0ad55c3eabbd7ac52e0537a0d5f38
+    digest: ce543db9ccd3bf712903e0871f6a5a22049d20ea7b843cf76aeb604df4b5f59c
     home: https://github.com/CUBRID/cubrid-operator
     keywords:
     - cubrid
     - cubrid HA
     - cubrid-operator
-    kubeVersion: '>=1.30.0-0'
+    kubeVersion: '>=1.29.0-0'
     maintainers:
     - email: airnet@cubrid.com
       name: Dooho Kang
@@ -40,4 +40,4 @@ entries:
     urls:
     - https://airnet73.github.io/test-operator/cubrid-operator-crds-0.0.1.tgz
     version: 0.0.1
-generated: "2025-03-09T22:23:55.937624831+09:00"
+generated: "2025-03-12T21:09:34.113059283+09:00"
