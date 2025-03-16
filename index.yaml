@@ -3,9 +3,28 @@ entries:
   cubrid-operator:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2025-03-12T21:09:34.115680478+09:00"
+    created: "2025-03-16T17:53:03.363146006+09:00"
     description: A Helm chart for Cubrid Operator
-    digest: 9b57ab64f828bac5e3d7bfa5be07fb43c47ad70bd9df31d025d012e1ffd2956a
+    digest: 8dcca779521f8b1f90bcf6037590c1fa22ee0fbb2d0051e6d94043a472144f7c
+    home: https://github.com/CUBRID/cubrid-operator
+    keywords:
+    - cubrid
+    - cubrid HA
+    - cubrid-operator
+    kubeVersion: '>=1.29.0-0'
+    maintainers:
+    - email: airnet@cubrid.com
+      name: Dooho Kang
+    name: cubrid-operator
+    type: application
+    urls:
+    - https://airnet73.github.io/test-operator/cubrid-operator-0.1.0-alpha.1.tgz
+    version: 0.1.0-alpha.1
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2025-03-16T17:53:03.361417108+09:00"
+    description: A Helm chart for Cubrid Operator
+    digest: 441140925ec59538e56287de644534d5589c8f3d53de00c96329b4c24532e901
     home: https://github.com/CUBRID/cubrid-operator
     keywords:
     - cubrid
@@ -23,9 +42,28 @@ entries:
   cubrid-operator-crds:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2025-03-12T21:09:34.116453902+09:00"
+    created: "2025-03-16T17:53:03.364497405+09:00"
     description: cubrid-operator CRDs
-    digest: ce543db9ccd3bf712903e0871f6a5a22049d20ea7b843cf76aeb604df4b5f59c
+    digest: d00ec46214f3de1915336dc651e90ecdf1a2114229fb2946396d07186241e706
+    home: https://github.com/CUBRID/cubrid-operator
+    keywords:
+    - cubrid
+    - cubrid HA
+    - cubrid-operator
+    kubeVersion: '>=1.29.0-0'
+    maintainers:
+    - email: airnet@cubrid.com
+      name: Dooho Kang
+    name: cubrid-operator-crds
+    type: application
+    urls:
+    - https://airnet73.github.io/test-operator/cubrid-operator-crds-0.1.0-alpha.1.tgz
+    version: 0.1.0-alpha.1
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2025-03-16T17:53:03.363831798+09:00"
+    description: cubrid-operator CRDs
+    digest: 6d6431c2815ac98e8cb47a7eeb7829327b30f40f0f6655c0f9d9315bfc7ab4bb
     home: https://github.com/CUBRID/cubrid-operator
     keywords:
     - cubrid
@@ -40,4 +78,4 @@ entries:
     urls:
     - https://airnet73.github.io/test-operator/cubrid-operator-crds-0.0.1.tgz
     version: 0.0.1
-generated: "2025-03-12T21:09:34.113059283+09:00"
+generated: "2025-03-16T17:53:03.359162248+09:00"
