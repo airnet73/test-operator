@@ -3,9 +3,9 @@ entries:
   cubrid-operator:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2025-04-07T21:24:18.669320797+09:00"
+    created: "2025-04-07T21:31:33.866473516+09:00"
     description: A Helm chart for Cubrid Operator
-    digest: 07477c85553722118cfcf78b9634497d33761689c47e2d30e98b328163cc072b
+    digest: 3578dbb8199289a0e82967061ef05a7c5f9ea97ee938ac9723ba00a5aa41866e
     home: https://github.com/CUBRID/cubrid-operator
     keywords:
     - cubrid
@@ -23,9 +23,9 @@ entries:
   cubrid-operator-crds:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2025-04-07T21:24:18.669849332+09:00"
+    created: "2025-04-07T21:31:33.867161278+09:00"
     description: cubrid-operator CRDs
-    digest: fc94b107909716315501be0dae541a50c11343f52a4dcfcb51b33c64b61e3d2f
+    digest: 0cfe205c5ff06b5d11910ca28009b361fab40c882defa7710ab624eeb84e4b4d
     home: https://github.com/CUBRID/cubrid-operator
     keywords:
     - cubrid
@@ -40,4 +40,4 @@ entries:
     urls:
     - https://airnet73.github.io/test-operator/cubrid-operator-crds-0.0.1.tgz
     version: 0.0.1
-generated: "2025-04-07T21:24:18.667657089+09:00"
+generated: "2025-04-07T21:31:33.864264529+09:00"
